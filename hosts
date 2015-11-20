@@ -2,7 +2,7 @@
 [production]
 107.170.180.220 be_app_env=production be_app_branch=master 
 
-[omnibox]
+[omnibox:children]
 production
 
 # Vagrant Example
